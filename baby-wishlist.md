@@ -9,12 +9,12 @@ permalink: /baby-wishlist/
 #### Товары долгосрочного пользования
 
 {: .dashes}
-- <span class="label label-danger">Сейчас</span> Инфракрасный градусник для измерения температуры тела, воздуха и воды.
+- <span class="label label-warning">Занято</span> Инфракрасный градусник для измерения температуры тела, воздуха и воды.
 - <span class="label label-danger">Сейчас</span> Увлажнитель воздуха (технология nanocloud; например, [такой](http://www.ozon.ru/context/detail/id/22444124/?frommarket=https%3a/market.yandex.ru/search.xml%3fcvredirect=2&text=увлажнитель+воздуха+nanocloud&utm_campaign=div_appliance&utm_content=22444124&utm_medium=cpc&utm_source=cpc_yandex_market&utm_term=22444124&ymclid=64288878735409720190005)).
-- <span class="label label-danger">Сейчас</span> Гигрометр.
+- <span class="label label-warning">Занято</span> Гигрометр.
 - Стульчик для кормления [Stokke Tripp Trapp](http://www.istokke.ru/stulya/tripp-trapp/). Можно его отечественный [«аналог»](http://kid-fix.ru).
-- Дышащий коврик для автокресла и коляски (например, [LeoKid](http://kids.wikimart.ru/walks_and_tours/child_carseats/accessories_carchair/model/72258775/matrasy_leokid_dyshashhijj_kovrik_krasnyjj/)).
-- Радионяня (любая; мы пока не знаем, что нам нужно. Можно [такую](https://market.yandex.ru/product/13414678?hid=989023) или другую дешевую).
+- <span class="label label-warning">Занято</span> Дышащий коврик для автокресла и коляски (например, [LeoKid](http://kids.wikimart.ru/walks_and_tours/child_carseats/accessories_carchair/model/72258775/matrasy_leokid_dyshashhijj_kovrik_krasnyjj/)).
+- <span class="label label-warning">Занято</span> Радионяня (любая; мы пока не знаем, что нам нужно. Можно [такую](https://market.yandex.ru/product/13414678?hid=989023) или другую дешевую).
 - <span class="label label-danger">Сейчас</span> Запасной чехол на кокон (у нас Red Castle Cocoonababy; чехлы есть [вот здесь](http://www.olant-shop.ru/catalog/olant/?ID=38336&SECTION_ID=195004)).
 - Коляска-трость [Baby zen yoyo](https://market.yandex.ru/product/8528976?hid=90796&suggest=1&suggest_type=model).
 
