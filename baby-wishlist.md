@@ -10,7 +10,7 @@ permalink: /baby-wishlist/
 
 {: .dashes}
 - <span class="label label-danger">Сейчас</span> Увлажнитель воздуха (технология nanocloud; например, [такой](http://www.ozon.ru/context/detail/id/22444124/?frommarket=https%3a/market.yandex.ru/search.xml%3fcvredirect=2&text=увлажнитель+воздуха+nanocloud&utm_campaign=div_appliance&utm_content=22444124&utm_medium=cpc&utm_source=cpc_yandex_market&utm_term=22444124&ymclid=64288878735409720190005)).
-- Стульчик для кормления [Stokke Tripp Trapp](http://www.istokke.ru/stulya/tripp-trapp/). Можно его отечественный [«аналог»](http://kid-fix.ru).
+- <span class="label label-warning">Занято</span> Стульчик для кормления [Stokke Tripp Trapp](http://www.istokke.ru/stulya/tripp-trapp/). Можно его отечественный [«аналог»](http://kid-fix.ru).
 - <span class="label label-danger">Сейчас</span> Запасной чехол на кокон (у нас Red Castle Cocoonababy; чехлы есть [вот здесь](http://www.olant-shop.ru/catalog/olant/?ID=38336&SECTION_ID=195004)).
 - Коляска-трость [Baby zen yoyo](https://market.yandex.ru/product/8528976?hid=90796&suggest=1&suggest_type=model).
 
