@@ -41,8 +41,6 @@ permalink: /baby-wishlist/
 
 В икее можно [все](http://www.ikea.com/ru/ru/catalog/categories/departments/childrens_ikea/18716/) брать. Например, [тренажер](http://www.ikea.com/ru/ru/catalog/products/70108177/), [мячик](http://www.ikea.com/ru/ru/catalog/products/00159542/), [пирамидка](http://www.ikea.com/ru/ru/catalog/products/50294887/) или [мягкие погремушки-котики](http://www.ikea.com/ru/ru/catalog/products/60266228/).
 
-Обязательно нужен [жирафик Софи](http://www.sofigiraf.ru/). Не надо покупать других похожих жирафиков и прочих жевательных игрушек. Продают, например, вот [здесь](http://www.olant-shop.ru/catalog/olant/?ID=2168543&SECTION_ID=2343).
-
 #### Облегчение жизни родителей
 
 {: .dashes}
