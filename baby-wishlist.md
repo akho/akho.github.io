@@ -32,7 +32,7 @@ permalink: /baby-wishlist/
 
 В икее можно [все](http://www.ikea.com/ru/ru/catalog/categories/departments/childrens_ikea/18716/) брать. Например, [мячик](http://www.ikea.com/ru/ru/catalog/products/00159542/), [пирамидка](http://www.ikea.com/ru/ru/catalog/products/50294887/) или [мягкие погремушки-котики](http://www.ikea.com/ru/ru/catalog/products/60266228/).
 
-[Прорезыватель](http://www.olant-shop.ru/catalog/olant/?ID=2376389&SECTION_ID=239). 
+<span class="label label-danger">Сейчас</span>[Прорезыватель](http://www.olant-shop.ru/catalog/olant/?ID=2376389&SECTION_ID=239). 
 
 #### Облегчение жизни родителей
 
