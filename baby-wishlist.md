@@ -28,13 +28,11 @@ permalink: /baby-wishlist/
 
 Лучше вообще товарами из этой категории не злоупотреблять. Важно, чтобы игрушки были сертифицированы для продажи в Евросоюзе (тогда есть надежда, что покрашены они нетоксичной краской); лучше даже европейского производства.
 
-Есть спрос на мячики (большие и маленькие). [Вот эти](http://www.aerobie.com/product/squidgie-ball/) хорошие, продают, например, [здесь](http://ekagam.ru/products/mjach-aerobie-squidgie-ball).
-
-[Такие кубики](http://mag.gorod-igrushek.ru/igrushki-dlya-samykh-malenkikh/2318-nr-derevjannyh-blokov.html).
-
-В икее можно [все](http://www.ikea.com/ru/ru/catalog/categories/departments/childrens_ikea/18716/) брать. Например, [мячик](http://www.ikea.com/ru/ru/catalog/products/00159542/), [пирамидка](http://www.ikea.com/ru/ru/catalog/products/50294887/) или [мягкие погремушки-котики](http://www.ikea.com/ru/ru/catalog/products/60266228/).
-
-Можно детские книжки (толстые картонные страницы, тактильные вставки).
+{: .dashes}
+- Мячики (большие и маленькие). [Вот эти](http://www.aerobie.com/product/squidgie-ball/) хорошие, продают, например, [здесь](http://ekagam.ru/products/mjach-aerobie-squidgie-ball).
+- [Такие кубики](http://mag.gorod-igrushek.ru/igrushki-dlya-samykh-malenkikh/2318-nr-derevjannyh-blokov.html).
+- В икее можно [все](http://www.ikea.com/ru/ru/catalog/categories/departments/childrens_ikea/18716/) брать. Например, [мячик](http://www.ikea.com/ru/ru/catalog/products/00159542/), [пирамидка](http://www.ikea.com/ru/ru/catalog/products/50294887/) или [мягкие погремушки-котики](http://www.ikea.com/ru/ru/catalog/products/60266228/).
+- Детские книжки (толстые картонные страницы, тактильные вставки).
 
 #### Облегчение жизни родителей
 
