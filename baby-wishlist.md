@@ -39,4 +39,4 @@ permalink: /baby-wishlist/
 {: .dashes}
 - [Пылесос Dyson V6](https://market.yandex.ru/product/12575553?hid=90564&show-uid=64429309347539843570001).
 - <span class="label label-danger">Сейчас</span> Муфта для рук к коляске.
-- <span class="label label-danger">Сейчас</span> Держатель стакана к коляске (у нас Bugaboo bee<sup>3</sup>).
+- <span class="label label-danger">Сейчас</span> Держатель стакана к коляске (у нас Bugaboo cameleon<sup>3</sup>).
