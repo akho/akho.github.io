@@ -29,15 +29,19 @@ permalink: /baby-wishlist/
 Лучше вообще товарами из этой категории не злоупотреблять. Важно, чтобы игрушки были сертифицированы для продажи в Евросоюзе (тогда есть надежда, что покрашены они нетоксичной краской); лучше даже европейского производства.
 
 {: .dashes}
-- Мячики (большие и маленькие).
+- Мячики (большие и маленькие). Особенно хочется диаметром 40–50 сантиметров.
 - [Такие кубики](http://mag.gorod-igrushek.ru/igrushki-dlya-samykh-malenkikh/2318-nr-derevjannyh-blokov.html).
 - Детские книжки (толстые картонные страницы, тактильные вставки).
 - Слингобусы.
 - Матрешки (например, [такие](https://www.ozon.ru/context/detail/id/137895279/)).
-- Юла.
+- <span class="label label-warning">Занято</span> Юла.
+- LEGO Duplo можно на вырост.
+- <span class="label label-warning">Занято</span> Вигвам.
+- Busy board.
+
 
 #### Облегчение жизни родителей
 
 {: .dashes}
 - [Пылесос Dyson V6](https://market.yandex.ru/product/12575553?hid=90564&show-uid=64429309347539843570001).
-- <span class="label label-danger">Сейчас</span> Держатель стакана к коляске (у нас Bugaboo cameleon<sup>3</sup>).
+- <span class="label label-warning">Занято</span> Держатель стакана к коляске (у нас Bugaboo cameleon<sup>3</sup>).
