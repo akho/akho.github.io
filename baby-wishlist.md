@@ -33,8 +33,7 @@ permalink: /baby-wishlist/
 - [Такие кубики](http://mag.gorod-igrushek.ru/igrushki-dlya-samykh-malenkikh/2318-nr-derevjannyh-blokov.html).
 - Детские книжки (толстые картонные страницы, тактильные вставки).
 - Слингобусы.
-- Матрешки (например, [такие](https://www.ozon.ru/context/detail/id/137895279/)).
-- <span class="label label-warning">Занято</span> Юла.
+- [Матрешка про репку](https://www.ozon.ru/context/detail/id/137895279/)).
 - LEGO Duplo можно на вырост.
 - <span class="label label-warning">Занято</span> Вигвам.
 - Busy board.
