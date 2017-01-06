@@ -38,7 +38,13 @@ permalink: /baby-wishlist/
 - LEGO Duplo можно на вырост.
 - <span class="label label-warning">Занято</span> Вигвам.
 - Busy board.
+- Спортивное сооружение для малышей типа [такого](http://www.r-start.ru/shop/detskij_sportivnij_kompleks/ot_rozhdeniya_do_shkoly/dsk_r/).
 
+#### Обучающие материалы
+
+Музыка: [Brillkids little musician](http://www.brillkids.com/teach-music/).
+
+[Эмоции](http://www.umnitsa.ru/cat/pervye-emocii/).
 
 #### Облегчение жизни родителей
 
