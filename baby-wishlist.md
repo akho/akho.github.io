@@ -8,16 +8,11 @@ permalink: /baby-wishlist/
 
 Если у вас есть любимые детские книжки — мы будем им рады.
 
-#### Товары долгосрочного пользования
-
-{: .dashes}
-- Коляска-трость [Baby zen yoyo](https://market.yandex.ru/product/8528976?hid=90796&suggest=1&suggest_type=model).
-
 #### Одежда
 
 Лучше всякие смешные шмотки от 74 размера и выше. Нам нравится магазин Mothercare, но подойдут любые из натуральных материалов. Не надо лишних рюшечек; если есть возможность, то лучше посмотреть, все ли в порядке со швами. Лучше, если одежда надевается не через голову.
 
-#### Расходники, косметика
+#### Расходники
 
 Подгузники Moony (6-11 кг), ну и следующий размер тоже уже можно готовить.
 
@@ -33,15 +28,18 @@ permalink: /baby-wishlist/
 - [Такие кубики](http://mag.gorod-igrushek.ru/igrushki-dlya-samykh-malenkikh/2318-nr-derevjannyh-blokov.html).
 - Детские книжки (толстые картонные страницы, тактильные вставки).
 - Слингобусы.
-- [Матрешка про репку](https://www.ozon.ru/context/detail/id/137895279/)).
+- [Матрешка про репку](https://www.ozon.ru/context/detail/id/137895279/).
 - LEGO Duplo можно на вырост.
 - <span class="label label-warning">Занято</span> Вигвам.
 - Busy board.
 - Спортивное сооружение для малышей типа [такого](http://www.r-start.ru/shop/detskij_sportivnij_kompleks/ot_rozhdeniya_do_shkoly/dsk_r/).
+- Штуки для игр с песком (лопатки, ведерки, формочки) ближе к лету.
 
 #### Обучающие материалы
 
 Музыка: [Brillkids little musician](http://www.brillkids.com/teach-music/).
+
+Ксилофон и/или металлофон.
 
 [Эмоции](http://www.umnitsa.ru/cat/pervye-emocii/).
 
@@ -49,4 +47,3 @@ permalink: /baby-wishlist/
 
 {: .dashes}
 - [Пылесос Dyson V6](https://market.yandex.ru/product/12575553?hid=90564&show-uid=64429309347539843570001).
-- <span class="label label-warning">Занято</span> Держатель стакана к коляске (у нас Bugaboo cameleon<sup>3</sup>).
