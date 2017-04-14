@@ -32,8 +32,9 @@ permalink: /baby-wishlist/
 - <span class="label label-warning">Занято</span> Световой стол.
 - Busy board (например, [такой](http://www.delaemnazakaz.ru/)).
 - Спортивное сооружение для малышей типа [такого](http://www.r-start.ru/shop/detskij_sportivnij_kompleks/ot_rozhdeniya_do_shkoly/dsk_r/).
-- Штуки для игр с песком (лопатки, ведерки, формочки) ближе к лету.
+- Штуки для игр с песком (лопатки, ведерки, формочки).
 - Санки с колесиками.
+- Самокат [Micro Mini 3in1](http://www.solnyshkoshop.com/transport/samokat-micro-mini-micro-3in1-green-mm0108.html).
 
 #### Обучающие материалы
 
