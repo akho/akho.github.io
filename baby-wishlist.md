@@ -24,22 +24,24 @@ permalink: /baby-wishlist/
 Лучше вообще товарами из этой категории не злоупотреблять. Важно, чтобы игрушки были сертифицированы для продажи в Евросоюзе (тогда есть надежда, что покрашены они нетоксичной краской); лучше даже европейского производства.
 
 {: .dashes}
-- Мячики (большие и маленькие). Особенно хочется диаметром 40–50 сантиметров.
 - [Такие кубики](http://mag.gorod-igrushek.ru/igrushki-dlya-samykh-malenkikh/2318-nr-derevjannyh-blokov.html).
 - Детские книжки (толстые картонные страницы, тактильные вставки).
-- Слингобусы.
 - [Матрешка про репку](https://www.ozon.ru/context/detail/id/137895279/).
 - LEGO Duplo можно на вырост.
 - <span class="label label-warning">Занято</span> Вигвам.
+- <span class="label label-warning">Занято</span> Световой стол.
 - Busy board.
 - Спортивное сооружение для малышей типа [такого](http://www.r-start.ru/shop/detskij_sportivnij_kompleks/ot_rozhdeniya_do_shkoly/dsk_r/).
 - Штуки для игр с песком (лопатки, ведерки, формочки) ближе к лету.
+- Санки с колесиками.
 
 #### Обучающие материалы
 
 Музыка: [Brillkids little musician](http://www.brillkids.com/teach-music/).
 
 Ксилофон и/или металлофон.
+
+Часы с циферблатом (большим, белым).
 
 [Эмоции](http://www.umnitsa.ru/cat/pervye-emocii/).
 
