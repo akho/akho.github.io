@@ -30,7 +30,7 @@ permalink: /baby-wishlist/
 - LEGO Duplo можно на вырост.
 - <span class="label label-warning">Занято</span> Вигвам.
 - <span class="label label-warning">Занято</span> Световой стол.
-- Busy board.
+- Busy board (например, [такой](http://www.delaemnazakaz.ru/)).
 - Спортивное сооружение для малышей типа [такого](http://www.r-start.ru/shop/detskij_sportivnij_kompleks/ot_rozhdeniya_do_shkoly/dsk_r/).
 - Штуки для игр с песком (лопатки, ведерки, формочки) ближе к лету.
 - Санки с колесиками.
