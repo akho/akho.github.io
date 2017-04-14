@@ -23,8 +23,11 @@ permalink: /baby-wishlist/
 
 Лучше вообще товарами из этой категории не злоупотреблять. Важно, чтобы игрушки были сертифицированы для продажи в Евросоюзе (тогда есть надежда, что покрашены они нетоксичной краской); лучше даже европейского производства.
 
+Дерево лучше пластмассы. Можно любые деревянные игрушки, умеренно подходящие по возрасту.
+
 {: .dashes}
 - [Такие кубики](http://mag.gorod-igrushek.ru/igrushki-dlya-samykh-malenkikh/2318-nr-derevjannyh-blokov.html).
+- Самокат [Micro Mini 3in1](http://www.solnyshkoshop.com/transport/samokat-micro-mini-micro-3in1-green-mm0108.html).
 - Детские книжки (толстые картонные страницы, тактильные вставки).
 - [Матрешка про репку](https://www.ozon.ru/context/detail/id/137895279/).
 - LEGO Duplo можно на вырост.
@@ -34,13 +37,13 @@ permalink: /baby-wishlist/
 - Спортивное сооружение для малышей типа [такого](http://www.r-start.ru/shop/detskij_sportivnij_kompleks/ot_rozhdeniya_do_shkoly/dsk_r/).
 - Штуки для игр с песком (лопатки, ведерки, формочки).
 - Санки с колесиками.
-- Самокат [Micro Mini 3in1](http://www.solnyshkoshop.com/transport/samokat-micro-mini-micro-3in1-green-mm0108.html).
+- Деревянный сортер.
 
 #### Обучающие материалы
 
 Музыка: [Brillkids little musician](http://www.brillkids.com/teach-music/).
 
-Ксилофон и/или металлофон.
+Ксилофон и/или металлофон. Другие детские музыкальные инструменты.
 
 Часы с циферблатом (большим, белым).
 
