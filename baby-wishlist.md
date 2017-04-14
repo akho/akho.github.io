@@ -43,7 +43,7 @@ permalink: /baby-wishlist/
 
 Музыка: [Brillkids little musician](http://www.brillkids.com/teach-music/).
 
-Ксилофон и/или металлофон. Другие детские музыкальные инструменты.
+Ксилофон и/или металлофон. Другие детские музыкальные инструменты ([например](http://www.mytoys.ru/product/4005808)).
 
 Часы с циферблатом (большим, белым).
 
