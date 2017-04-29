@@ -49,6 +49,8 @@ permalink: /baby-wishlist/
 
 [Эмоции](http://www.umnitsa.ru/cat/pervye-emocii/).
 
+Школа семи гномов — [курс от года до двух](http://shkola7gnomov.ru/catalog/shkola-semi-gnomov-1-2-goda-polnyy-godovoy-kurs-12-knig-v-podarochnoy-upakovke/).
+
 #### Облегчение жизни родителей
 
 {: .dashes}
