@@ -38,6 +38,7 @@ permalink: /baby-wishlist/
 - Штуки для игр с песком (лопатки, ведерки, формочки).
 - Санки с колесиками.
 - Деревянный сортер.
+- [Магниты со зверями](http://djeco-shop.ru/derevyannye-magnity-zoopark).
 
 #### Обучающие материалы
 
@@ -49,7 +50,7 @@ permalink: /baby-wishlist/
 
 [Эмоции](http://www.umnitsa.ru/cat/pervye-emocii/).
 
-Школа семи гномов — [курс от года до двух](http://shkola7gnomov.ru/catalog/shkola-semi-gnomov-1-2-goda-polnyy-godovoy-kurs-12-knig-v-podarochnoy-upakovke/).
+<span class="label label-warning">Занято</span> Школа семи гномов — [курс от года до двух](http://shkola7gnomov.ru/catalog/shkola-semi-gnomov-1-2-goda-polnyy-godovoy-kurs-12-knig-v-podarochnoy-upakovke/).
 
 #### Облегчение жизни родителей
 
