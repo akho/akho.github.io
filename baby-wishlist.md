@@ -27,7 +27,7 @@ permalink: /baby-wishlist/
 
 {: .dashes}
 - [Такие кубики](http://mag.gorod-igrushek.ru/igrushki-dlya-samykh-malenkikh/2318-nr-derevjannyh-blokov.html).
-- Самокат [Micro Mini 3in1](http://www.solnyshkoshop.com/transport/samokat-micro-mini-micro-3in1-green-mm0108.html).
+- <span class="label label-warning">Занято</span> Самокат [Micro Mini 3in1](http://www.solnyshkoshop.com/transport/samokat-micro-mini-micro-3in1-green-mm0108.html).
 - Детские книжки (толстые картонные страницы, тактильные вставки).
 - [Матрешка про репку](https://www.ozon.ru/context/detail/id/137895279/).
 - LEGO Duplo можно на вырост.
