@@ -27,10 +27,8 @@ permalink: /baby-wishlist/
 
 {: .dashes}
 - [Такие кубики](http://mag.gorod-igrushek.ru/igrushki-dlya-samykh-malenkikh/2318-nr-derevjannyh-blokov.html).
-- <span class="label label-warning">Занято</span> Самокат [Micro Mini 3in1](http://www.solnyshkoshop.com/transport/samokat-micro-mini-micro-3in1-green-mm0108.html).
 - Детские книжки (толстые картонные страницы, тактильные вставки).
 - [Матрешка про репку](https://www.ozon.ru/context/detail/id/137895279/).
-- LEGO Duplo можно на вырост.
 - <span class="label label-warning">Занято</span> Вигвам.
 - <span class="label label-warning">Занято</span> Световой стол.
 - Busy board (например, [такой](http://www.delaemnazakaz.ru/)).
@@ -40,12 +38,6 @@ permalink: /baby-wishlist/
 - Деревянный сортер.
 - [Магниты со зверями](http://djeco-shop.ru/derevyannye-magnity-zoopark).
 - [Сферовел](https://earlyrider.com/products/spherovelo) (можно б/у).
-
-#### Другое нужное
-
-{: .dashes}
-- Горшок (икеа локкиг).
-- <span class="label label-warning">Занято</span> Детское сиденье для унитаза.
 
 #### Обучающие материалы
 
