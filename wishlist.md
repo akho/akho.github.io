@@ -17,7 +17,7 @@ permalink: /wishlist/
 {: .dashes}
 - [Стамески Narex](http://www.kalpa-vriksa.ru/catalog/stameski_narex/) — 8, 10, 20, и 32 мм.
 - [Пила Ryoba](http://www.kalpa-vriksa.ru/catalog/pily_dvustoronnie/12511/).
-- [Пила Dozuki universal](http://www.kalpa-vriksa.ru/catalog/obushkovye_pily/4955/).
+- [Пила Dozuki universal](http://www.kalpa-vriksa.ru/catalog/obushkovye_pily/4955/). (есть еще вот такой очень дорогой [набор](http://arsenalmastera.ru/goods/Pily-yaponskie-Ryoba-Dozuki-Kataba#show_tab_1))
 - [Рубанок Dick № 4](http://www.kalpa-vriksa.ru/catalog/rubanki_3_4_i_4_1_2/31107/).
 - [Разметочный нож](http://www.kalpa-vriksa.ru/catalog/razmetochnye_i_stolyarnye_nozhi/14005/).
 
