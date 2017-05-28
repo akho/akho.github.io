@@ -11,7 +11,7 @@ permalink: /wishlist/
 - Укулеле или Loog.
 - 3D принтер ([Tiertime Up Mini 2](https://market.yandex.ru/search?cvredirect=2&text=tiertime%20up%20mini%202&local-offers-first=0&deliveryincluded=0&onstock=1), говорят, хороший).
 - Подписка на [Nautilus](http://nautil.us/). Можно только электронную.
-- Набор из Ардуино и всякого рядом с инструкциями, типа [такого](https://www.amazon.com/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/ref=pd_sim_21_20?_encoding=UTF8&pd_rd_i=B01D8KOZF4&pd_rd_r=HPGD20MY6T9B85YWWPB2&pd_rd_w=MCPgc&pd_rd_wg=hUS2Q&psc=1&refRID=HPGD20MY6T9B85YWWPB2).
+- Набор из Ардуино и всякого рядом с инструкциями, типа [такого](http://onpad.ru/shop/cubie/arduino/ardiuno_kit/1680.html?ymclid=959659905539406816600002). На алиэкспрессе тоже много.
 
 ### Настольные игры
 
