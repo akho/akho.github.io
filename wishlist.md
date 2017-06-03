@@ -5,13 +5,12 @@ permalink: /wishlist/
 ---
 
 {: .dashes}
-- Электрическая гейзерная кофеварка (Bialetti Elettrica на две чашки).
 - Небольшая сумка через плечо (относительно жесткая, должен помещаться киндл, маленький фотоаппарат, и бумажки).
 - Наушники Sony MDR-7506.
 - Укулеле или Loog.
 - 3D принтер ([Tiertime Up Mini 2](https://market.yandex.ru/search?cvredirect=2&text=tiertime%20up%20mini%202&local-offers-first=0&deliveryincluded=0&onstock=1), говорят, хороший).
-- Подписка на [Nautilus](http://nautil.us/). Можно только электронную.
 - Набор из Ардуино и всякого рядом с инструкциями, типа [такого](http://onpad.ru/shop/cubie/arduino/ardiuno_kit/1680.html?ymclid=959659905539406816600002). На алиэкспрессе тоже много.
+- Подписка Headspace.
 
 ### Настольные игры
 
