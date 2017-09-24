@@ -4,8 +4,21 @@
   src: url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0") format("embedded-opentype"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0") format("woff"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular") format("svg"); }
 
 article.books {
-  max-width: 100%; }
-  article.books i.like, article.books i.unfinished, article.books i.reread {
+  max-width: 100%;
+  padding-left: 2rem;
+  /* responsive columns */
+  /* FontAwesome gutter marks */
+  /* page header; should have an edge-to-edge look */
+  /* covers banner; should scroll horizontally */
+  /* top-level sections */ }
+  article.books .columnize {
+    width: 100%; }
+    @media (min-width: 56rem) {
+      article.books .columnize {
+        column-count: 2;
+        column-gap: 4rem;
+        column-width: 25rem; } }
+  article.books i.like, article.books i.unfinished, article.books i.reread, article.books i.reading {
     display: block;
     float: left;
     margin-left: -1.5rem;
@@ -17,52 +30,56 @@ article.books {
     -moz-osx-font-smoothing: grayscale;
     color: #ddd; }
   article.books i.like:before {
-    content: "\f004"; }
+    content: "\f004";
+    color: #ff6464; }
   article.books i.reread:before {
     content: "\f021"; }
   article.books i.unfinished:before {
     content: "\f04d"; }
+  article.books i.reading:before {
+    content: "\f04c"; }
   article.books header {
+    box-model: border-box;
+    margin-left: -2rem;
+    padding-left: 2rem;
     width: 100%;
     border-bottom-style: solid;
     border-bottom-color: #515151;
     border-bottom-width: 2px; }
     article.books header h1 {
-      margin-left: 2rem; }
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 54rem; }
   article.books > section.covers {
     margin-bottom: 4rem;
     margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 54rem;
     overflow: scroll;
     white-space: nowrap; }
   article.books > section {
-    margin-left: 2rem; }
-    article.books > section .column {
-      display: inline-block;
-      vertical-align: top;
-      max-width: 40rem;
-      max-width: 100%;
-      width: 30rem; }
-    @media (min-width: 35rem) {
-      article.books > section .column {
-        margin-right: 5rem; } }
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 54rem;
+    /* top-level headings */
+    /* lower-level sections responsively turn into 2 columns */ }
     article.books > section h1 {
-      margin-top: 3rem;
+      margin-top: 4.5rem;
+      margin-bottom: 0rem;
       font-variant: small-caps;
       font-weight: normal;
       font-size: 1.3rem;
       text-transform: lowercase;
       letter-spacing: 0.15em; }
-      article.books > section h1 span.count {
-        border: 2px solid blue;
-        font-weight: bold;
-        color: blue;
-        padding-left: 0.7rem;
-        padding-right: 0.7rem;
-        padding-top: .0rem;
-        border-radius: 500px;
-        margin-left: 1rem; }
+    @media (min-width: 56rem) {
+      article.books > section .columnize section {
+        display: inline-block;
+        width: 25rem; } }
     article.books > section section h1 {
-      margin-top: 2rem;
+      margin-top: 3rem;
+      margin-bottom: 1.5rem;
       font-size: 1rem; }
     article.books > section ul {
       margin-left: 0;
@@ -74,4 +91,4 @@ article.books {
         text-indent: -1rem;
         padding-left: 0; }
         article.books > section ul li ul {
-          margin-left: 1rem; }
+          margin-left: 0; }
