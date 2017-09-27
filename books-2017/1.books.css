@@ -5,6 +5,7 @@
 
 article.books {
   max-width: 100%;
+  margin-bottom: 4rem;
   padding-left: 2rem;
   /* responsive columns */
   /* page header; should have an edge-to-edge look */

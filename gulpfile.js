@@ -3,7 +3,7 @@ var sass = require('gulp-sass');
 var bS = require('browser-sync').create();
 
 gulp.task('sass', function() {
-  return gulp.src(['**/*.+(sass|scss)', '!node_modules/**' ])
+  return gulp.src(['**/*.+(sass|scss)', '!node_modules/**', '!**/bootstrap.scss' ])
     .pipe(sass()) // Using gulp-sass
     .pipe(gulp.dest('./'))
     .pipe(bS.reload({ stream: true }))
