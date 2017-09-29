@@ -103,12 +103,11 @@ article.books {
     article.books > section h1 {
       margin-top: 5.1rem;
       margin-bottom: 0;
-      font-variant: small-caps;
       font-weight: normal;
       font-size: 1.3rem;
+      text-transform: uppercase;
       padding: 0;
       line-height: 3.4rem;
-      text-transform: lowercase;
       letter-spacing: 0.15em; }
     @media (min-width: 56rem) {
       article.books > section .columnize section {
