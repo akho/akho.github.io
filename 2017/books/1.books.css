@@ -38,7 +38,7 @@ article.books {
       display: block;
       float: left;
       margin-left: -1.5rem;
-      padding-top: 0.1em;
+      padding-top: 0.3em;
       font: normal normal normal 14px/1 FontAwesome;
       font-size: inherit;
       text-rendering: auto;
@@ -101,7 +101,7 @@ article.books {
     max-width: 54rem;
     /* top-level headings */
     /* lower-level sections responsively turn into 2 columns */ }
-    article.books > section h1 {
+    article.books > section h2 {
       margin-top: 5.1rem;
       margin-bottom: 0;
       font-weight: normal;
@@ -114,7 +114,7 @@ article.books {
       article.books > section .columnize section {
         width: 25rem;
         display: inline-block; } }
-    article.books > section section > h1 {
+    article.books > section section > h2 {
       margin-top: 3.4rem;
       margin-bottom: 1.7rem;
       font-size: 1rem;
