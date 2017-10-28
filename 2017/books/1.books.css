@@ -9,7 +9,6 @@ article.books {
   margin-bottom: 5.1rem;
   padding-left: 2rem;
   /* responsive columns */
-  /* page header; should have an edge-to-edge look */
   /* top-level sections */ }
   article.books .columnize {
     margin: 0;
@@ -54,44 +53,7 @@ article.books {
       content: "\f04d"; }
     article.books ul.booklist li.reading:before {
       content: "\f04c"; }
-  article.books header {
-    max-width: 58rem;
-    position: relative;
-    overflow: clip;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 3rem;
-    height: 300px;
-    /* covers banner; should scroll horizontally */ }
-    @media (max-width: 56rem) {
-      article.books header {
-        margin-left: -2rem;
-        margin-right: 0;
-        width: 100vw;
-        max-width: 100vw; } }
-    article.books header h1 {
-      position: absolute;
-      margin-left: 0;
-      padding-left: 2rem;
-      box-sizing: border-box;
-      width: 100%;
-      background-color: rgba(255, 255, 255, 0.8);
-      z-index: 1;
-      line-height: 100px;
-      font-weight: normal;
-      font-size: 50px;
-      font-family: sans-serif; }
-    article.books header div.covers {
-      margin: 0;
-      padding: 0;
-      overflow-x: scroll;
-      overflow-y: clip;
-      white-space: nowrap; }
-      article.books header div.covers img {
-        border: 0;
-        margin: 0;
-        padding: 0; }
-  article.books > section {
+  article.books > section, article.books > header {
     padding: 0;
     margin-left: auto;
     margin-right: auto;
@@ -100,7 +62,7 @@ article.books {
     max-width: 54rem;
     /* top-level headings */
     /* lower-level sections responsively turn into 2 columns */ }
-    article.books > section h2 {
+    article.books > section h2, article.books > header h2 {
       margin-top: 5.1rem;
       margin-bottom: 0;
       font-weight: normal;
@@ -110,10 +72,10 @@ article.books {
       line-height: 3.4rem;
       letter-spacing: 0.15em; }
     @media (min-width: 56rem) {
-      article.books > section .columnize section {
+      article.books > section .columnize section, article.books > header .columnize section {
         width: 25rem;
         display: inline-block; } }
-    article.books > section section > h2 {
+    article.books > section section > h2, article.books > header section > h2 {
       margin-top: 3.4rem;
       margin-bottom: 1.7rem;
       font-size: 1rem;
