@@ -10,6 +10,13 @@ article.books {
   padding-left: 2rem;
   /* responsive columns */
   /* top-level sections */ }
+  article.books > header {
+    margin-top: 5.1rem;
+    margin-bottom: 5.1rem; }
+    article.books > header > h1 {
+      font-weight: normal;
+      line-height: 5.1rem;
+      font-size: 3rem; }
   article.books .columnize {
     margin: 0;
     padding: 0;
@@ -57,8 +64,6 @@ article.books {
     padding: 0;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0;
-    margin-bottom: 0;
     max-width: 54rem;
     /* top-level headings */
     /* lower-level sections responsively turn into 2 columns */ }
