@@ -1,0 +1,110 @@
+@font-face
+  font-family: 'FontAwesome'
+  src: url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0')
+  src: url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg')
+  font-weight:normal
+  font-style:normal
+
+$line-height: 1.7rem
+$column-width: 25rem
+$column-gutter: 4rem
+$content-width: 2 * $column-width + $column-gutter
+$left-gutter: 2rem
+$break: $content-width + $left-gutter
+
+article.books
+  font:
+    family: Georgia, serif
+  max-width: 100%
+  margin-bottom: $line-height * 3
+  padding:
+    left: $left-gutter 
+
+  > header
+    margin:
+      top: $line-height * 3
+      bottom: $line-height * 3
+    > h1
+      font-weight: normal
+      line-height: $line-height * 3
+      font-size: 3rem
+
+  /* responsive columns */
+  .columnize
+    margin: 0
+    padding: 0
+    width: 100%
+    @media (min-width: $break)
+      column-count: 2
+      column-gap: $column-gutter 
+      column-width: $column-width
+      -webkit-column-count: 2
+      -webkit-column-gap: $column-gutter 
+      -webkit-column-width: $column-width
+
+  ul.booklist
+    margin: 0
+    padding: 0
+    li
+      font-size: 1rem
+      list-style-type: none
+      margin: 0
+      margin-left: 1rem
+      text-indent: -1rem
+      padding-left: 0
+    /* FontAwesome gutter marks */
+    li:before 
+      display: block
+      float: left
+      margin-left: -$left-gutter + 0.5rem
+      padding-top: 0.3em
+      font: normal normal normal 14px/1 FontAwesome
+      font-size: inherit
+      text-rendering: auto
+      -webkit-font-smoothing: antialiased
+      -moz-osx-font-smoothing: grayscale
+      color: #ddd
+    li.like:before
+      content: "\f004"
+      color: rgb(255,100,100)
+    li.reread:before
+      content: "\f021"
+    li.unfinished:before
+      content: "\f04d"
+    li.reading:before
+      content: "\f04c"
+
+  /* top-level sections */
+  > section, > header 
+    padding: 0
+    margin:
+      left: auto
+      right: auto
+    max-width: $content-width
+
+    /* top-level headings */
+    h2
+      margin:
+        top: $line-height * 3
+        bottom: 0
+      font:
+        weight: normal
+        size: 1.3rem
+      text-transform: uppercase
+      padding: 0
+      line-height: $line-height * 2
+      letter-spacing: 0.15em
+
+    /* lower-level sections responsively turn into 2 columns */
+    @media (min-width: $break)
+      .columnize section
+        width: $column-width
+        display: inline-block
+
+    section 
+      > h2
+        margin:
+          top: $line-height * 2
+          bottom: $line-height
+        font-size: 1rem
+        line-height: $line-height
