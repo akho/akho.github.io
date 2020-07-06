@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0");
+  src: url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0") format("embedded-opentype"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0") format("woff"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular") format("svg"); }
+
+article.books {
+  font-family: Georgia, serif;
+  max-width: 100%;
+  margin-bottom: 5.1rem;
+  padding-left: 2rem;
+  /* responsive columns */
+  /* top-level sections */ }
+  article.books > header {
+    margin-top: 5.1rem;
+    margin-bottom: 5.1rem; }
+    article.books > header > h1 {
+      font-weight: normal;
+      line-height: 5.1rem;
+      font-size: 3rem; }
+  article.books .columnize {
+    margin: 0;
+    padding: 0;
+    width: 100%; }
+    @media (min-width: 56rem) {
+      article.books .columnize {
+        column-count: 2;
+        column-gap: 4rem;
+        column-width: 25rem;
+        -webkit-column-count: 2;
+        -webkit-column-gap: 4rem;
+        -webkit-column-width: 25rem; } }
+  article.books ul.booklist {
+    margin: 0;
+    padding: 0;
+    /* FontAwesome gutter marks */ }
+    article.books ul.booklist li {
+      font-size: 1rem;
+      list-style-type: none;
+      margin: 0;
+      margin-left: 1rem;
+      text-indent: -1rem;
+      padding-left: 0; }
+    article.books ul.booklist li:before {
+      display: block;
+      float: left;
+      margin-left: -1.5rem;
+      padding-top: 0.3em;
+      font: normal normal normal 14px/1 FontAwesome;
+      font-size: inherit;
+      text-rendering: auto;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      color: #ddd; }
+    article.books ul.booklist li.like:before {
+      content: "\f004";
+      color: #ff6464; }
+    article.books ul.booklist li.reread:before {
+      content: "\f021"; }
+    article.books ul.booklist li.unfinished:before {
+      content: "\f04d"; }
+    article.books ul.booklist li.reading:before {
+      content: "\f04c"; }
+  article.books > section, article.books > header {
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 54rem;
+    /* top-level headings */
+    /* lower-level sections responsively turn into 2 columns */ }
+    article.books > section h2, article.books > header h2 {
+      margin-top: 5.1rem;
+      margin-bottom: 0;
+      font-weight: normal;
+      font-size: 1.3rem;
+      text-transform: uppercase;
+      padding: 0;
+      line-height: 3.4rem;
+      letter-spacing: 0.15em; }
+    @media (min-width: 56rem) {
+      article.books > section .columnize section, article.books > header .columnize section {
+        width: 25rem;
+        display: inline-block; } }
+    article.books > section section > h2, article.books > header section > h2 {
+      margin-top: 3.4rem;
+      margin-bottom: 1.7rem;
+      font-size: 1rem;
+      line-height: 1.7rem; }
