@@ -4,12 +4,6 @@
     "home_page_url": "https://akho.github.io/photos/",
     "feed_url":  "https://akho.github.io/photos/index.json",
     "items": [
-        {
-            "id": "152",
-            "title": "152",
-            "content_html": "<img src=\"https://akho.github.io/photos/small_DSCF0152.jpg\" alt=\"2020-09-20, Fujifilm X-T2, Fujinon 35mm F/2 R WR, f/4.0, 1/400, ISO 200, processed in Camera One Express\"/>",
-            "url": "https://akho.github.io/photos/DSCF0152.jpg"
-        },
             
             {
                 "id": "151",
@@ -25,12 +19,6 @@
                 "url": "https://akho.github.io/photos/DSCF0146.jpg"
             },
             
-            {
-                "id": "141",
-                "title": "141",
-                "content_html": "<img src=\"https://akho.github.io/photos/small_DSCF0141.jpg\" alt=\"2020-09-20, Fujifilm X-T2, Fujinon 35mm F/2 R WR, f/2.0, 1/2000, ISO 200, processed in Camera One Express\"/>",
-                "url": "https://akho.github.io/photos/DSCF0141.jpg"
-            },
             
             {
                 "id": "139",
