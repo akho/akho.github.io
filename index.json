@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "akho photos",
+    "home_page_url": "https://akho.github.io/photos/",
+    "feed_url":  "https://akho.github.io/photos/index.json",
+    "items": [
+        {
+            "id": "3",
+            "content_html": "<img width=\"100%\" src=\"https://akho.github.io/photos/small_DSCF0043.jpg\" alt=\"2020-09-20, Fujifilm X-T2, Fujinon 35mm F/2 R WR, f/4.0, 1/400, ISO 200, processed in Camera One Express\"/>",
+            "url": "https://akho.github.io/photos/DSCF0094.jpg"
+        },
+        {
+            "id": "2",
+            "content_html": "<img width=\"100%\" src=\"https://akho.github.io/photos/small_DSCF0094.jpg\" alt=\"2020-09-20, Fujifilm X-T2, Fujinon 35mm F/2 R WR, f/2.0, 1/60, ISO 500, processed in Fujifilm Raw Studio and edited in Affinity Photo\"/>",
+            "url": "https://akho.github.io/photos/DSCF0094.jpg"
+        },
+        {
+            "id": "1",
+            "content_html": "<img width=\"100%\" src=\"https://akho.github.io/photos/small_DSCF0016_edited.jpg\" alt=\"2020-09-20, Fujifilm X-T2, Fujinon 35mm F/2 R WR, f/2.0, 1/125, ISO 800, processed in Camera One Express and edited in Affinity Photo\"/>",
+            "url": "https://example.org/initial-post"
+        }
+    ]
+}
